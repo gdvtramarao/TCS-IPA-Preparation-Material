@@ -1,4 +1,4 @@
-# 🎯 TCS IPA Preparation Material
+# 🎯 TCS ITIS IPA Preparation Material
 
 This repository contains a collection of handpicked PDFs and resources to help you prepare for the **TCS IPA (Initial Placement Assessment)**. All materials are curated from publicly available sources.
 
